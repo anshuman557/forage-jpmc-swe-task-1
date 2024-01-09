@@ -1,0 +1,16 @@
+From e0c46b1c1acdca6a303cb9239bd8b14434dfde0c Mon Sep 17 00:00:00 2001
+From: Anshuman Singh <anshumansingh12457@gmail.com>
+Date: Wed, 10 Jan 2024 00:24:01 +0530
+Subject: [PATCH] Fix broken client datafeed script
+
+---
+ fix_datafeed.patch | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 fix_datafeed.patch
+
+diff --git a/fix_datafeed.patch b/fix_datafeed.patch
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.32.0 (Apple Git-132)
+
